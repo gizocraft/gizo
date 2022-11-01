@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1665410341 source:c:\hhs\hel\fuse.c
+	<avr/io.h>
+
+1667306556 source:c:\hhs\hel\main.c
+	<avr/io.h>
+	<util/delay.h>
+	<stdbool.h>
+	"servo.h"
+	"h_bridge.h"
+
+1601555143 c:\hhs\hel\servo.h
+
+1632488736 source:c:\hhs\hel\servo.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"servo.h"
+
+1601557993 source:c:\hhs\hel\h_bridge.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"h_bridge.h"
+
+1601555768 c:\hhs\hel\h_bridge.h
+
